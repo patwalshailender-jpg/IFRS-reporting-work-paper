@@ -1,0 +1,9 @@
+{
+  "name": "ifrs-position-paper",
+  "displayName": "IFRS Position Paper",
+  "version": "1.0.0",
+  "description": "Drafts audit-ready IFRS technical accounting position papers (issue, guidance, analysis, conclusion, journal entries, disclosures) for investment transactions in pension funds and investment entities.",
+  "author": { "name": "YOUR NAME" },
+  "license": "MIT",
+  "keywords": ["ifrs", "accounting", "audit", "pension-fund", "investment", "financial-reporting", "technical-accounting"]
+}
